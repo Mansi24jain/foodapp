@@ -343,4 +343,7 @@
 	.last-icon {
 		font-size: 2rem;
 	}
+	.last-parent {
+		display: flex;
+	}
 }
