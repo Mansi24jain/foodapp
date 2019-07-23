@@ -338,12 +338,15 @@
 		height: 25rem;
 	}
 	.last-li {
-		font-size: 1.5rem;
+		font-size: 1.2rem;
 	}
 	.last-icon {
 		font-size: 2rem;
 	}
 	.last-parent {
 		display: flex;
+	}
+	.last-line{
+		font-size: 1.1rem;
 	}
 }
