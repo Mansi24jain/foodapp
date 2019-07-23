@@ -134,7 +134,7 @@
 		/* margin-right: 1rem; */
 	}
 	#slide {
-		left: 43%;
+		left: 50%;
 	}
 	.ul1 {
 		display: flex;
@@ -142,7 +142,7 @@
 	}
 	li a {
 		margin-top: 1rem;
-		font-size: 1.2rem;
+		font-size: 0.9rem;
 		margin-right: 0.5rem;
 		float: none;
 	}
