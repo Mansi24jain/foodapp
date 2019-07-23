@@ -163,7 +163,7 @@
 		font-size: 0.9rem;
 	}
 	.section-division i {
-		margin-left: 7rem;
+		margin-left: 6.5rem;
 		margin-bottom: 1rem;
 		font-size: 2.5rem;
 	}
@@ -351,5 +351,6 @@
 	}
 	.last-line {
 		font-size: 1.1rem;
+		padding-top: 6rem;
 	}
 }
