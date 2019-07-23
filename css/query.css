@@ -338,10 +338,10 @@
 		height: 25rem;
 	}
 	.last-li {
-		font-size: 1.2rem;
+		font-size: 0.8rem;
 	}
 	.last-icon {
-		font-size: 2rem;
+		font-size: 1.5rem;
 	}
 	.last-parent {
 		display: flex;
