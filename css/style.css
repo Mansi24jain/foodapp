@@ -187,11 +187,13 @@ hr {
 	padding-right: 3rem;
 }
 .steps-features div {
-	padding: 1rem;
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
+	padding-left: 1rem;
 	margin-left: 9rem;
 	padding-right: 1.8rem;
 	border: 0.1rem solid #27ae60;
-	height: 4%;
+	height: 2%;
 	width: 6%;
 	border-radius: 50%;
 	color: #27ae60;
@@ -343,6 +345,9 @@ hr {
 .signup-features li {
 	margin-bottom: 1rem;
 	font-size: 1.2rem;
+}
+.display{
+	color: white;
 }
 .price {
 	color: #2ecc71;
