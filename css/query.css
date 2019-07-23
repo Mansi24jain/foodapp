@@ -125,21 +125,29 @@
 		top: 78%;
 		left: 15%;
 		margin-top: -10rem;
-		transform: scale(1);
-		font-size: 0.8rem;
+		font-size: 1rem;
 		padding: 0.3rem 0.6rem;
+	}
+	.option a:hover {
+		color: white;
+		font-size: 1.1rem;
+		background-color: #27ae60;
+		border-color: #27ae60;
+		transform: scale(0.8);
+		transition-timing-function: ease-in-out;
+		transition-duration: 0.8s;
 	}
 	#slide {
 		left: 43%;
 	}
-	.ul1{
+	.ul1 {
 		display: flex;
 		padding-top: 1.5rem;
 	}
 	li a {
 		margin-top: 1rem;
 		font-size: 0.8rem;
-		margin-right: 0.0.5rem;
+		margin-right: 0.5rem;
 		float: none;
 	}
 	.features-heading h2 {
