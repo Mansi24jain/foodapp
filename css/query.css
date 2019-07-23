@@ -337,6 +337,9 @@
 	footer {
 		height: 20rem;
 	}
+	.last {
+		margin: 1rem;
+	}
 	.last-li {
 		font-size: 0.6rem;
 	}
@@ -346,7 +349,7 @@
 	.last-parent {
 		display: flex;
 	}
-	.last-line{
+	.last-line {
 		font-size: 1.1rem;
 	}
 }
