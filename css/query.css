@@ -129,13 +129,9 @@
 		padding: 0.3rem 0.6rem;
 	}
 	.option a:hover {
-		color: white;
 		font-size: 1.1rem;
-		background-color: #27ae60;
-		border-color: #27ae60;
-		transform: scale(0.8);
-		transition-timing-function: ease-in-out;
-		transition-duration: 0.8s;
+		transform: scale(0.5, 0.5);
+		margin-right: 1rem;
 	}
 	#slide {
 		left: 43%;
