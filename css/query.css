@@ -131,10 +131,10 @@
 	.option a:hover {
 		font-size: 1.2rem;
 		transform: scale(1.1);
-		margin-right: 1rem;
+		/* margin-right: 1rem; */
 	}
 	#slide {
-		left: 50%;
+		left: 43%;
 	}
 	.ul1 {
 		display: flex;
@@ -142,7 +142,7 @@
 	}
 	li a {
 		margin-top: 1rem;
-		font-size: 0.9rem;
+		font-size: 1.2rem;
 		margin-right: 0.5rem;
 		float: none;
 	}
