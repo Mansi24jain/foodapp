@@ -24,6 +24,9 @@ h1 {
 	word-spacing: 0.25rem;
 	font-weight: 700;
 }
+.option{
+	margin-top: 1.2rem;
+}
 .option a {
 	color: #2ecc71;
 	position: absolute;
