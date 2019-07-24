@@ -335,17 +335,18 @@
 		transform: scale(0.8.0.8);
 	}
 	footer {
-		height: 17rem;
+		height: 12rem;
 	}
 	.last {
-		margin: 1rem;
+		margin: 0.5rem;
 	}
 	.last-li {
-		font-size: 0.8rem;
+		font-size: 0.5rem;
+		padding-left: 1rem;
 	}
 	.last-icon {
 		font-size: 1.5rem;
-		margin-left: 1rem;
+		margin-left: 2rem;
 	}
 	.last-parent {
 		display: flex;
